@@ -1,0 +1,13 @@
+title: Job Search Vault Lite – free Obsidian job application tracker
+description: Free Obsidian vault to track job applications in plain Markdown. Pipeline dashboard, due follow-ups and an application template, built with Dataview.
+theme: jekyll-theme-minimal
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+url: https://webdesignthinkahead-gif.github.io
+baseurl: /obsidian-job-search-vault
+exclude:
+  - Applications
+  - Templates
+  - 00 Start Here.md
+  - 01 Dashboard.md
