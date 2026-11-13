@@ -10,6 +10,6 @@ A free, minimal application tracker for Obsidian: every application in one note,
 
 New application: create a note in `Applications` and insert the *Application* template.
 
-Full version with interview prep, STAR stories, weekly reviews and 5 practical guides: https://gumroad.com
+Full version with interview prep, STAR stories, weekly reviews and 5 practical guides: https://kopsch.gumroad.com/l/job-search-vault
 
 *Plain Markdown, your data stays local. Free to use.*

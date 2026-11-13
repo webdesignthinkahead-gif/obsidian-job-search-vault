@@ -19,4 +19,4 @@ SORT follow_up ASC
 ---
 **Want the full system?** The full *Job Search Vault* adds upcoming interviews, stage counts, a ghosting check and a "sources that work" analysis.
 It also includes Interview, Contact, STAR Story and Weekly Review templates, plus 5 guides: follow-up scripts, interview question bank, salary negotiation, resume bullet formulas and a 30-day plan.
-→ https://gumroad.com
+→ https://kopsch.gumroad.com/l/job-search-vault
